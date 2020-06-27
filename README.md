@@ -1,1 +1,1 @@
-# Making-Snake-Game-with-C-and-C-
+# snake-game
