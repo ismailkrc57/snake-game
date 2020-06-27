@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1593252492 source:e:\tamer\snake_game\main.cpp
+	<iostream>
+	<windows.h>
+	"win_fonksiyon.h"
+	<time.h>
+	<stdlib.h>
+
+1592947932 e:\tamer\snake_game\oyun_alani.h
+	<iostream>
+	<windows.h>
+
+1592947872 source:e:\tamer\snake_game\oyun_alani.cpp
+	"oyun_alani.h"
+
+1592946447 e:\tamer\snake_game\yilan.h
+	<iostream>
+
+1592947088 source:e:\tamer\snake_game\yilan.cpp
+	"yilan.h"
+	"oyun_alani.h"
+
+1593146538 source:e:\tamer\snake_game\win_fonksiyon.cpp
+	"win_fonksiyon.h"
+	<iostream>
+	<windows.h>
+
+1593146602 e:\tamer\snake_game\win_fonksiyon.h
+	<iostream>
+	<windows.h>
+
